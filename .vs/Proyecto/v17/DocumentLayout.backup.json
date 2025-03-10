@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\user\\source\\repos\\proyecto\\ticket\\user.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\user.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\ticket\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\ticket\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\user\\source\\repos\\proyecto\\ticket\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\ticket\\mimaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\mimaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\ticket\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|solutionrelative:negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\User.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\User.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\User.aspx.cs",
+              "RelativeToolTip": "Ticket\\User.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:58:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Registro.aspx.cs",
+              "RelativeToolTip": "Ticket\\Registro.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:09:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\CSS\\Style.css",
+              "RelativeDocumentMoniker": "Ticket\\CSS\\Style.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\CSS\\Style.css",
+              "RelativeToolTip": "Ticket\\CSS\\Style.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T20:13:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiMaster.Master",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\MiMaster.Master",
+              "RelativeDocumentMoniker": "Ticket\\MiMaster.Master",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\MiMaster.Master",
+              "RelativeToolTip": "Ticket\\MiMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-04T11:43:37.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\MiMaster.Master.cs",
+              "RelativeDocumentMoniker": "Ticket\\MiMaster.Master.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\MiMaster.Master.cs",
+              "RelativeToolTip": "Ticket\\MiMaster.Master.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:22:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Registro.aspx",
+              "RelativeDocumentMoniker": "Ticket\\Registro.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Registro.aspx",
+              "RelativeToolTip": "Ticket\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-02T12:03:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Negocio\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\UsuarioNegocio.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Negocio\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Negocio\\UsuarioNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:54:07.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

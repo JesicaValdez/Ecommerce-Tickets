@@ -1,0 +1,71 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+:root {
+    --primary-color: #2563EB; /* Azul principal */
+    --secondary-color: #4B5563; /* Gris azulado para texto */
+    --background-color: #F3F4F6; /* Fondo general */
+    --navbar-bg: #FFFFFF; 
+    --footer-bg: #1F2937; /* Gris azulado oscuro */
+    --button-bg: #2563EB; /* Botones azules */
+    --button-hover: #1E40AF; 
+    --text-color: #374151; 
+    --white: #FFFFFF;
+    --font-family: 'Inter', sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/*CUSTOM PROPERTIES*/
+.custom-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+}
+
+.custom-logo {
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+}
+
+.custom-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.nav-item {
+    text-align: center;
+    font-size: 12px;
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
+    .nav-item i {
+        font-size: 25px;
+        display: block;
+    }
+
+/* Barra de búsqueda */
+.search-container {
+    padding: 10px;
+}
+
+.search-box {
+    width: 100%;
+    border-radius: 50px;
+    padding: 8px 15px;
+    border: 1px solid #ddd;
+    outline: none;
+}
