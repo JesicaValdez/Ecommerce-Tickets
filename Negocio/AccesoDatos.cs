@@ -19,7 +19,7 @@ namespace Negocio
 
             public AccesoDB()
             {
-                conexion = new SqlConnection("Server=localhost; Database=DB_TICKETS; User Id=sa; Password=TuNuevaContraseñaFuerte2");
+                conexion = new SqlConnection("Server=localhost; Database=DB_TICKETS2; User Id=sa; Password=Qqmelo#13");
                 comando = new SqlCommand();
             }
 

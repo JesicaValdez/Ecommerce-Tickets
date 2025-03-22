@@ -52,11 +52,6 @@
                 <a class="nav-item" href="User.aspx"><i class="bi bi-person"></i>Mi Perfil</a>
             </nav>
 
-            <!-- BARRA DE BÚSQUEDA -->
-            <div class="search-container">
-                <input type="text" class="search-box" placeholder="Buscar eventos...">
-            </div>
-
             <div class="container mt-4">
                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                 </asp:ContentPlaceHolder>

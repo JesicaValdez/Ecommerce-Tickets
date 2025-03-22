@@ -20,6 +20,24 @@ body {
     color: var(--text-color);
 }
 
+/*My STYLE*/
+.card-img-top {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; 
+    padding-top: 0;
+}
+
+    .card-body > span {
+        margin-top: -4px;
+    }
+
 /*CUSTOM PROPERTIES*/
 .custom-header {
     display: flex;

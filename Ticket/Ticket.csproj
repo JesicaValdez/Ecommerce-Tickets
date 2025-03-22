@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AdminForm.aspx" />
+    <Content Include="Compra.aspx" />
     <Content Include="Confirmacion.aspx" />
     <Content Include="Contacto.aspx" />
     <Content Include="CrearEvento.aspx" />
@@ -75,6 +76,17 @@
     <Content Include="Default.aspx" />
     <Content Include="Error.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Images\ImagesEvento\davidbowie.jpg" />
+    <Content Include="Images\ImagesEvento\janisjoplin.jpg" />
+    <Content Include="Images\ImagesEvento\jimihendrix.jpg" />
+    <Content Include="Images\ImagesEvento\joydivision.jpg" />
+    <Content Include="Images\ImagesEvento\neworder.jpg" />
+    <Content Include="Images\ImagesEvento\No-imge.jpg" />
+    <Content Include="Images\ImagesEvento\ramones.jpg" />
+    <Content Include="Images\ImagesEvento\sexpistols.jpg" />
+    <Content Include="Images\ImagesEvento\strokes.jpg" />
+    <Content Include="Images\ImagesEvento\theclash.jpg" />
+    <Content Include="Images\ImagesEvento\thecure.jpg" />
     <Content Include="Login.aspx" />
     <Content Include="MisTickets.aspx" />
     <Content Include="Registro.aspx" />
@@ -88,6 +100,13 @@
     </Compile>
     <Compile Include="AdminForm.aspx.designer.cs">
       <DependentUpon>AdminForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Compra.aspx.cs">
+      <DependentUpon>Compra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Compra.aspx.designer.cs">
+      <DependentUpon>Compra.aspx</DependentUpon>
     </Compile>
     <Compile Include="Confirmacion.aspx.cs">
       <DependentUpon>Confirmacion.aspx</DependentUpon>
