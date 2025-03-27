@@ -25,7 +25,9 @@ namespace Ticket
 
         protected void verInfoClick(object sender, EventArgs e)
         {
-            Response.Redirect("Compra.aspx");
+            Button btn = (Button)sender;
+            string id = btn.CommandArgument;
+            Response.Redirect("Compra.aspx?id=" + id);
         }
     }
 }

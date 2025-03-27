@@ -30,13 +30,38 @@ namespace Negocio
                     aux.fecha = (DateTime)datos.Lector["Fecha"];
                     aux.lugar = (string)datos.Lector["Lugar"];
                     aux.direccion = (string)datos.Lector["Direccion"];
-                    aux.capacidad = (int)datos.Lector["Capacidad"];                    
+                    aux.capacidad = (int)datos.Lector["Capacidad"];
                     aux.image = (string)datos.Lector["Imagen"];
 
                     lista.Add(aux);
                 }
 
                 return lista;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
+        public Evento buscarEvento(int id)
+        {
+            try
+            {
+                Evento evento = new Evento();
+                List<Evento> listaEventos = listar();
+                foreach (Evento evt in listaEventos)
+                {
+                    if (evt.id == id)
+                    {
+                        evento = evt;
+                    }
+                }
+                return evento;
             }
             catch (Exception ex)
             {

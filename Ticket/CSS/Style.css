@@ -38,6 +38,38 @@ body {
         margin-top: -4px;
     }
 
+.card-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1.2rem;
+    line-height: 1.6; /* Mejora la legibilidad */
+}
+
+.card-text i {
+    margin-right: 10px;
+}
+
+.fecha-hora-evento {
+    font-size: 1.2rem;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: block; /* Asegura que ocupe toda la fila */
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.fecha-hora-evento i {
+    margin-right: 10px;
+}
+
 /*CUSTOM PROPERTIES*/
 .custom-header {
     display: flex;
