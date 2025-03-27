@@ -5,32 +5,41 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h2 class="text-center">COMPRA</h2>
     <div class="container">
+        <div class="row">
+            <asp:Repeater ID="rptDetalle" runat="server">
+                <ItemTemplate>
+                    <div class="card mb-3">
+                        <div class="row g-0">
+                            <!-- Imagen del evento -->
+                            <div id="carousel" class="col-md-4">
+                                <img class="card-img-top" src='<%# ResolveUrl("~/Images/ImagesEvento/" + Eval("image")) %>'>
+                            </div>
+                            <!-- Información del evento -->
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title"></h5>
+                                    <p class="card-text"><i class="bi bi-ticket-perforated-fill"></i><%# Eval("nombre") %></p>
+                                    <p class="card-text"><small class="text-body-secondary"><i class="bi bi-file-plus"></i><%# Eval("descripcion") %></small></p>
+                                    <p class="card-text"><small class="text-body-secondary"><i class="bi bi-map"></i><%# Eval("lugar") %>, <%# Eval("direccion") %></small></p>
+                                    <p class="card-text"><small class="text-body-secondary"><i class="bi bi-bag-check"></i>Asegura tu lugar en este evento comprando tu entrada</small></p>
 
-        <asp:Repeater ID="rptDetalle" runat="server">
-            <ItemTemplate>
-                <div class="card mb-3">
-                    <div class="row g-0">
-                        <!-- Imagen del evento -->
-                        <div id="carousel" class="col-md-4">
-                            <img class="card-img-top" src='<%# ResolveUrl("~/Images/ImagesEvento/" + Eval("image")) %>'>
-                        </div>
-                        <!-- Información del evento -->
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title"></h5>
-                                <p class="card-text"><i class="bi bi-ticket-perforated-fill"></i><%# Eval("nombre") %></p>
-                                <p class="card-text"><small class="text-body-secondary"><i class="bi bi-file-plus"></i><%# Eval("descripcion") %></small></p>
-                                <p class="card-text"><small class="text-body-secondary"><i class="bi bi-map"></i><%# Eval("lugar") %>, <%# Eval("direccion") %></small></p>
-                                <p class="card-text"><small class="text-body-secondary"><i class="bi bi-bag-check"></i>Asegura tu lugar en este evento comprando tu entrada</small></p>
-
+                                </div>
                             </div>
                         </div>
-                        <asp:Label ID="lblFechaHora" runat="server" CssClass="fecha-hora-evento"> <i class="bi bi-clock"></i><%# Eval("fecha", "{0:dddd, dd 'de' MMMM 'de' yyyy hh:mm}") %></asp:Label>
-
                     </div>
-                </div>
-            </ItemTemplate>
-        </asp:Repeater>
+                </ItemTemplate>
+            </asp:Repeater>
+        </div>
+
+        <section class="row mb-3">
+            <asp:Repeater ID="rptFecha" runat="server">
+                <ItemTemplate>
+                    <div>
+                        <asp:Label ID="lblFechaHora" runat="server" CssClass="fecha-hora-evento"> <i class="bi bi-clock"></i><%# Eval("fecha", "{0:dddd, dd 'de' MMMM 'de' yyyy hh:mm}") %></asp:Label>
+                    </div>
+                </ItemTemplate>
+            </asp:Repeater>
+        </section>
 
         <section class="row">
             <asp:ScriptManager runat="server" />
@@ -99,5 +108,6 @@
                 </div>
 
             </div>
+         </section>
     </div>
 </asp:Content>

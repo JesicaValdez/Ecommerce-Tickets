@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\qqmelo\\desktop\\proyectos\\ecommerce-tickets\\ticket\\compra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\compra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\compra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\qqmelo\\desktop\\proyectos\\ecommerce-tickets\\ticket\\compra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|solutionrelative:negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\compra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\compra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\qqmelo\\desktop\\proyectos\\ecommerce-tickets\\ticket\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\qqmelo\\desktop\\proyectos\\ecommerce-tickets\\ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|c:\\users\\qqmelo\\desktop\\proyectos\\ecommerce-tickets\\negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|solutionrelative:negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Style.css",
               "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\CSS\\Style.css",
               "RelativeDocumentMoniker": "Ticket\\CSS\\Style.css",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Ticket\\CSS\\Style.css",
               "ViewState": "AgIAAB8AAAAAAAAAAAAywCkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T22:08:35.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T22:08:35.808Z"
             },
             {
               "$type": "Document",
@@ -69,27 +68,27 @@
               "RelativeDocumentMoniker": "Ticket\\Compra.aspx.cs",
               "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Compra.aspx.cs",
               "RelativeToolTip": "Ticket\\Compra.aspx.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T21:52:25.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EventoNegocio.cs",
               "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Negocio\\EventoNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\EventoNegocio.cs",
               "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Negocio\\EventoNegocio.cs",
               "RelativeToolTip": "Negocio\\EventoNegocio.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAQwEcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwEcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T21:51:00.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Compra.aspx",
               "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Compra.aspx",
               "RelativeDocumentMoniker": "Ticket\\Compra.aspx",
@@ -102,20 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Ticket\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx.cs",
               "RelativeToolTip": "Ticket\\Default.aspx.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T20:13:20.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx",
               "RelativeDocumentMoniker": "Ticket\\Default.aspx",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "Ticket\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-24T20:13:20.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T20:13:20.257Z"
             }
           ]
         },

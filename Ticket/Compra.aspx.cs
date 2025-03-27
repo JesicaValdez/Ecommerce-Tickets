@@ -29,6 +29,9 @@ namespace Ticket
                 rptDetalle.DataSource = evento;
                 rptDetalle.DataBind();
 
+                rptFecha.DataSource = evento;
+                rptFecha.DataBind();
+
                 rptPrecio.DataSource = evento;
                 rptPrecio.DataBind();
             }

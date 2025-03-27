@@ -59,7 +59,7 @@ body {
     padding: 10px;
     background-color: #f9f9f9;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 20px;
     display: block; /* Asegura que ocupe toda la fila */
     margin-top: 20px;
     text-align: center;
