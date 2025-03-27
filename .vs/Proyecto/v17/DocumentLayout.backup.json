@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\user\\source\\repos\\proyecto\\ticket\\mimaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\mimaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|c:\\users\\user\\source\\repos\\proyecto\\ticket\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|c:\\users\\user\\source\\repos\\proyecto\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|c:\\users\\user\\source\\repos\\proyecto\\negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D0B898-1CBD-4D48-98A9-BCFB087F06AF}|Negocio\\Negocio.csproj|solutionrelative:negocio\\eventonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\ticket\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFABC9A0-6AA4-496B-AE8F-B5D918FE697E}|Ticket\\Ticket.csproj|solutionrelative:ticket\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{085A92CB-2EFE-4BFD-AF20-05CB7FD8E711}|Dominio\\Dominio.csproj|C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\dominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{085A92CB-2EFE-4BFD-AF20-05CB7FD8E711}|Dominio\\Dominio.csproj|C:\\Users\\user\\source\\repos\\Proyecto\\dominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{085A92CB-2EFE-4BFD-AF20-05CB7FD8E711}|Dominio\\Dominio.csproj|solutionrelative:dominio\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,51 +55,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventoNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Negocio\\EventoNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\EventoNegocio.cs",
-              "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Negocio\\EventoNegocio.cs",
-              "RelativeToolTip": "Negocio\\EventoNegocio.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAD4vyEAAAA2AAAAAAAAAA==",
+              "Title": "MiMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\MiMaster.Master.cs",
+              "RelativeDocumentMoniker": "Ticket\\MiMaster.Master.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\MiMaster.Master.cs",
+              "RelativeToolTip": "Ticket\\MiMaster.Master.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:43:35.918Z",
+              "WhenOpened": "2025-03-24T20:37:58.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Login.aspx.cs",
+              "RelativeToolTip": "Ticket\\Login.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:29:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:21:51.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EventoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Negocio\\EventoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\EventoNegocio.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Negocio\\EventoNegocio.cs",
+              "RelativeToolTip": "Negocio\\EventoNegocio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:13:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Dominio\\Evento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Dominio\\Evento.cs",
               "RelativeDocumentMoniker": "Dominio\\Evento.cs",
-              "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Dominio\\Evento.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Dominio\\Evento.cs",
               "RelativeToolTip": "Dominio\\Evento.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:37:18.62Z"
+              "WhenOpened": "2025-03-24T20:13:20.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Ticket\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Default.aspx.cs",
               "RelativeToolTip": "Ticket\\Default.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA7wBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:31:47.855Z"
+              "WhenOpened": "2025-03-24T20:13:20.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Default.aspx",
               "RelativeDocumentMoniker": "Ticket\\Default.aspx",
-              "ToolTip": "C:\\Users\\QQmelo\\Desktop\\Proyectos\\Ecommerce-Tickets\\Ticket\\Default.aspx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto\\Ticket\\Default.aspx",
               "RelativeToolTip": "Ticket\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-22T15:19:31.86Z",
+              "WhenOpened": "2025-03-24T20:13:20.257Z",
               "EditorCaption": ""
             }
           ]

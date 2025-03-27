@@ -14,7 +14,7 @@ namespace Ticket
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!(Page is Login || Page is Registro || Page is Default))
+            if (!(Page is Login || Page is Registro || Page is Default || Page is Compra || Page is Contacto))
             {
                 if (!Seguridad.sesionActiva(Session["sessionActiva"]))
                     Response.Redirect("Login.aspx", false);
@@ -36,7 +36,7 @@ namespace Ticket
         protected void BtnCerrarSesion_Click(object sender, EventArgs e)
         {
             Session.Clear();
-            Response.Redirect("Login.aspx", false);
+            Response.Redirect("Default.aspx", false);
         }
 
 
